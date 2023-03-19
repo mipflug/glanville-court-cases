@@ -5,21 +5,121 @@
 				<title>Sample Document Title</title>
 			</titleStmt>
 			<publicationStmt>
-				<p></p>
+				<p/>
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
 					otherwise noted.</p>
 			</sourceDesc>
 		</fileDesc>
-		<xenoData>
-			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-			</rdf:RDF></xenoData></teiHeader>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
-				<head>Replace with your title.</head>
-				<p>Replace with your text.</p></div>
+				<head>Interrogatories on the Complainant's part.</head>
+				<p>//IMG_0401, IMG_0402//<lb/>
+ Interr<expan>ogator</expan>yes to be administered to wittnesses to be produced and Examined on the part and behalfe of Forest Ashfeild Gent<expan>leman</expan> Compl<expan>ainan</expan>t<lb/>
+ against S<expan>i</expan>r Henry Goodrick Bar<expan>one</expan>t Def<expan>endan</expan>t<lb/>
+ 1.) Imprimis do you know the said Parties Compl<expan>ainan</expan>t and Def<expan>endan</expan>t or either or which of them How and how long have you so knowne them or any or either and which of them<lb/>
+ declare<lb/>
+ 2.) Item did you know a Rice Davies Esq<expan>ui</expan>re dec<expan>eas</expan>ed late Great Grandfather of the said Compl<expan>ainan</expan>t and Elianor his Daughter the Compl<expan>ainan</expan>ts Grand Mother dec<expan>eas</expan>ed and Nicholas Poyntz <add>Esq<expan>ui</expan>re</add> her first Husband<lb/>
+ <unclear>Esq<expan>ui</expan>re</unclear> dec<expan>eas</expan>ed and William Goodrick Esq<expan>ui</expan>re her second husband the Compl<expan>ainan</expan>ts Grandfather dec<expan>eas</expan>ed and Elianor Glanville dec<expan>eas</expan>ed the Compl<expan>ainan</expan>ts Mother and Edmund Ashfeild Esq<expan>ui</expan>re her former husband<lb/>
+ dec<expan>eas</expan>ed the Compl<expan>ainan</expan>ts Father or any or either and which of them in theire respective lifetimes and how long did you so knowe them respectively before their respective deaths or have<lb/>
+ you heard of them or any or either and which of them How long <add><unclear>since &amp; when as heard as you can</unclear></add> did they respectively die As you know beleive or have heard Declare with your reasons and Circumstances at large.<lb/>
+ 3.) Item what Children had the Compl<expan>ainan</expan>ts Mother by either and which of her husbands doe you knowe them or any or either and which of them of what age and Religion were they respectively in July<lb/>
+ One thousand <add>seven hundred &amp; five</add> and how is or are and of what Religion was the Compl<expan>ainan</expan>ts Mother Declare the Truth as you know beleive or have heard.<lb/>
+ 4.) Item how did the Compl<expan>ainan</expan>ts brother and sisters or any and which of them behave themselves towards their said Mother in respect of <unclear>Only</unclear> and <unclear>Cleadrence</unclear> and in what particulars and how did<lb/>
+ she carry herselfe towards them and how and in what sort rank or manner did she maintaine and educate them or any or either and which of them Declare the Truth as you know beleive or have heard with<lb/>
+ your reasons and circumstances therefore.<lb/>
+ 5.) Item what allowance had the Compl<expan>ainan</expan>t from his Mother for his Maintenance what might he spend by the Yeare or in any and what Yeare Did he contract any and what Debts and to what<lb/>
+ value Was he extravagent or disorderly in his life Conversac<expan>i</expan>on or otherwise or not and how wherein and to what Degree Declare the Truth with your reasons and circumstances.<lb/>
+ 6.) Item what Estate had the Compl<expan>ainan</expan>ts Mother in poss<expan>es</expan>ion and R<unclear>ecdron</unclear> in Tickenham Backwell and Rodney Stoke or any or either and which of them of what Yearely Value was the same And how much did<lb/>
+ the Lords Rents amount to what was the Useage of letting the Tenements of the Mannors of Tickenham and Rodney Stoke aforesaid What was reckoned or Esteemed the Advantage and annuall Income of<lb/>
+ them Declare the Truth as you know beleive or have heard.<lb/>
+ 7.)Item how near did you live to the Compl<expan>ainan</expan>ts Mother or was you related to and in what manner or acquainted with her was she reputed or Esteemed by her Neighbours or in the Country where she lived a Wise<lb/>
+ discreet Woman and of Sound Mind and understanding or a Lunatick or Madd Woman And what was and is your opinion of her touching the same<lb/>
+ Declare the truth according to the best of your knowledge or beleife.<lb/>
+ 8.) Item did the Compl<expan>ainan</expan>ts Mother manage her Estate like a Woman of discretion or of sound mind and understanding or not or howe and in what manner and to what advantage or disadvantage did she manage<lb/>
+ the same Declare the truth according to the best of your knowledge and beleife with your reasons and circumstances.<lb/>
+ 9.) Item in what manner did the Compl<expan>ainan</expan>ts Mother live in her house and how did She mange the same where did she reside Did she continue there or absent herselfe there from and remove to any and<lb/>
+ what place or places at any time or times and how often and for what Causes or upon what occasions what servants did she keep and of what Rank or Sort And how did she behave herselfe<lb/>
+ towards servants or Children and whither like a woman of Sound Mind and understanding or otherwise and how Declare the Truth.<lb/>
+ 10.) Item have you heard or observed any Mad frantick lunatick or unrationall Words Acc<expan>i</expan>ons or postures of the Compl<expan>ainan</expan>ts Mother If yea Sett forth the same w<expan>i</expan>th all the Circumstances at large and of the<lb/>
+ times thereof as near as you can.<lb/>
+ 11.) Item what have you heard one Thomas Edwards <add>another Def<expan>endan</expan>t in the Compl<expan>ainan</expan>ts Bill named</add> at any time or times and when say or declare touching the Compl<expan>ainan</expan>ts Mother being of Sound Mind or Memory or the Contrary or of his thoughts or Opinion<lb/>
+ thereof Declare the Truth.<lb/>
+ 12.) Item what have you heard the <add>said</add> Def<expan>endan</expan>t Edwards at any time and when say or declare touching the reason and End of the Compl<expan>ainan</expan>ts Mothers makeing the Will and Settlement in que<expan>sti</expan>on or either and<lb/>
+ which of them Declare.<lb/>
+ 13.) Item do you know or have heard of any Deed or Deeds of settlement made by the Compl<expan>ainan</expan>ts Father and Mother or either and which of them of all or any part of her Estate on the Compl<expan>ainan</expan>t and his Father<lb/>
+ or either and which of them Was or were the same and any and what other writeings deposited in the Custody of any and what person or persons how by whence when and upon what occasion was <add>or were</add> the<lb/>
+ same Deed or Deeds <add>and</add> writeings or any of them gotten or obteyned from such p<expan>er</expan>son or p<expan>er</expan>sons And what have you heard such p<expan>er</expan>son or p<expan>er</expan>sons and how often say or declare touching the same of what Quality<lb/>
+ Integrity and reputac<expan>i</expan>on was or were such p<expan>er</expan>son or p<expan>er</expan>sons and what is become of him or them Declare the Truth of what you knowe beleive or have heard to each part of this Interr<expan>ogator</expan>y with the Circumstances<lb/>
+ thereof at large<lb/>
+ 14.) Item have you ever said or declared that the Compl<expan>ainan</expan>ts Mother was Mad or out of her sences or that it was your thoughts or opinion that She was so or anything and what to that effect Declare the Truth.<lb/>
+ 15.) Item had you by any and what meanes and upon what occasion <add>any</add> and what Deed or Deeds of Settlement or other writeings of or belonging to the Estate in que<expan>sti</expan>on or any and what part thereof or from Edw<expan>ar</expan>d<lb/>
+ Gorges Esq<expan>ui</expan>re deceased was or were the same returned to him or not and why not Did he ever Demand or aske to have the same againe And why were the same not returned to him what was or were the Contents of<lb/>
+ them or any of them And what became <add>of</add> or is done with the same or when did you last see or heare of the same Declare the Truth of what you know beleive or have heard to each part of this Interr<expan>ogator</expan>y.<lb/>
+ 16.) Item whose was the Estate in que<expan>sti</expan>on before the Compl<expan>ainan</expan>ts Mothers title there to and whose before her Mothers and whose before the Compl<expan>ainan</expan>ts Grandmothers title there to And what relac<expan>i</expan>on was such p<expan>er</expan>son or p<expan>er</expan>sons<lb/>
+ to the Compl<expan>ainan</expan>t And what relac<expan>i</expan>on is the Def<expan>endan</expan>t Goodrick to the same p<expan>er</expan>son or who represents him or her as Heire in case the Compl<expan>ainan</expan>ts Mother was an Impostrix as you know beleive or have heard Declare.<lb/>
+ 17.) Item Doe you know anything of the Compl<expan>ainan</expan>ts Mothers directing the paceing a Bull Thatching an house with any and what Sort of Stones makeing a ladder dealing in Butterflyes <add>or other insects</add> or anything of such like<lb/>
+ Nature If yea! Sett forth the same with all the occasions and reasons thereof at large.<lb/>
+ 18.) Item have you heard or doe knowe anything and what of the Compl<expan>ainan</expan>ts Mothers fancying herselfe to have been an Empostrix If Yea! Sett forth the same plainly and fully.<lb/>
+ 19.) Item have you heard the Compl<expan>ainan</expan>ts Mother at any time or times and when as near as you can say or declare Anything and what touching the Compl<expan>ainan</expan>t and his Brother's and Sisters or any and which of them<lb/>
+ being or not being her Child or Children or Changeling or Changelings and how or in what manner did She say They came soe to be or have happened And of her reason for disinheriteing them or any or either<lb/>
+ and which of them Declare the playne truth with all your reasons and Circumstances And what you have heard any other p<expan>er</expan>son or p<expan>er</expan>sons say or declare touching the same and touching the time or occasion of such<lb/>
+ her saying And is such person dead or Liveing and how long since Declare.<lb/>
+ 20.) Item whither did the Compl<expan>ainan</expan>ts Mother Value most of her Doggs Butterflyes or Children as you know or beleife declare with your reasons and Circumstances thereof.<lb/>
+ 21.) Item of what Religion and orders are Mr Parrott and Mr Baptist Legatees in the Compl<expan>ainan</expan>ts Mothers p<expan>re</expan>tended Will menc<expan>i</expan>oned &amp; what relac<expan>i</expan>on is Old Goodman Wale another of her pr<expan>e</expan>tended Legatees to<lb/>
+ her as you know beleive or have heard Declare.<lb/>
+ //IMG_0403 and IMG_0404//<lb/>
+ 22.) Item what instances can you give of the Compl<expan>ainan</expan>ts or any of his brother or Sist<expan>e</expan>rs Disobedience to his Mother or extravagance And how do you knowe the same wherein and to what Degree and how<lb/>
+ often repeated and upon what occasions were the same acted Declare the playne Truth.<lb/>
+ 23.) Item did you see any or either and which of the Deeds papers or writeings to you nowe p<expan>ro</expan>duced Signed Sealed and delivered by any or either and which of the partyes thereto or persons therein<lb/>
+ named Did you endorse subscribe or make your name or marke thereon or thereto as a Witness thereto Is your name or marke so there on or there to endorsed Subscribed or made of your owne p<expan>ro</expan>per<lb/>
+ hand writeing or makeing or are you acquainted with the Charater or manner of hand writeing or marke makeing of any or either and which of the person or persons whose name or names marke or<lb/>
+ markes is or are so endorsed Subscribed or made And is or are the same of his her or their p<expan>ro</expan>per handwriteing or makeing As you know or beleive Declare.<lb/>
+ 24.) Item what doe you know of any Conceits or thoughts the Compl<expan>ainan</expan>ts Mother had or declared to have of all or any and which of her Children Ten<expan>a</expan>nts Servants Neighbours or others designs or attempts to murther<lb/>
+ kill poyson or distroy her of her haveing pr<expan>e</expan>pared any Rope to destroy herselfe or for any and what other purpose Or anything and what to that the like effect And what ground or reason had<lb/>
+ She for the same as you know beleive or have heard to each part of this Interr<expan>ogator</expan>y with your Reasons all <add>and</add> Circumstances touching the same and how usuall and often the same were repeated.<lb/>
+ 25.) Item what do you know of the Compl<expan>ainan</expan>ts Mothers sending the Compl<expan>ainan</expan>t to reside in Cheshire, a Voyage to Sea, To a Monastry and into France And for what ends what learning had she bred him<lb/>
+ how and in what manner did he return and on what occasion And on his returns how was he received by her And for what reasons did she soe Treat him And what hath she said touching<lb/>
+ his death or of what she would give for any such Newes or anything and what to that or the like effect And what reasons did She assigne therefore Declare the whole truth to each part of this<lb/>
+ Interr<expan>ogator</expan>y with all the Circumstances thereof at large.<lb/>
+ 26.) Item of what Quality and profession was the Compl<expan>ainan</expan>ts Father before his Marriage how and in what Fashion and repute did he then live On what occasion did he quit his place of<lb/>
+ Residence and p<expan>ro</expan>fession And how did he treat the Compl<expan>ainan</expan>ts Mother and behave himself towards her (vizt.) kind and obligeing or not And what Sence had she of his behaviour towards her And<lb/>
+ what kindnesse and respect did she profess to him And did they live Comfortably together or not Declare the Truth of what you knowe beleive or have heard hereto with the reasons<lb/>
+ and Circumstances at large.<lb/>
+ 27.) Item Did the Compl<expan>ainan</expan>ts Mother ever make or execute any Deed of appointment or Direcc<expan>i</expan>on of the Uses or Trust of all or any and what part of her Estate on or to the Compl<expan>ainan</expan>t or his Father<lb/>
+ or in favour of them or either and which of them or to any and what other use or uses or which Deed was afterwards cancelled what have you said or Declared touching the same when where and<lb/>
+ in whose custody did you last see such Deed who were Witnesses thereto By whome and upon what occasion was the same so cancelled And what is become thereof Declare the whole Truth according<lb/>
+ to these best of your knowledge memory and beleife.<lb/>
+ 28.) Item when did the Compl<expan>ainan</expan>t first reforme and become of the protestant Religion whether before or after July One Thousand Seven hundred and Five Declare the Truth of what you know<lb/>
+ beleive or have heard hereto.<lb/>
+ 29.) Item do you know of any Acc<expan>i</expan>on writt or Warrant had or brought by the Def<expan>endan</expan>ts or either of them against the Compl<expan>ainan</expan>t and for what Cause was the same so had or brought What baile did the same<lb/>
+ require And what did the Sherriffes Officer or Bailiffe say touching its requireing Twenty Thousand pounds baile or any and what other extraordinary baile And what did he advise the Compl<expan>ainan</expan>t<lb/>
+ to do therein And by whome was the said Bayliffe or officer directed or instructed therein Declare the plain Truth.<lb/>
+ 30.) Item who advised or directed the Drawing the Will and Deed in Question or either and which of them or the disposeing of the Estate in que<expan>sti</expan>on in such sort as thereby is expressed Were the same<lb/>
+ directed drawne engrossed and sealed all at one and the same time or were the same drawn or engrossed any time and how long before the same were sealed What reason did the Compl<expan>ainan</expan>ts Mother assigne<lb/>
+ for her so doeing at the Times of directing drawing or sealing the same Why did she so <unclear>D</unclear>eale by her Children Were they all of Age and all offenders as she pr<expan>e</expan>tended and wherein and all alike offenders Or did<lb/>
+ She expresse or designe to be reposed in the Def<expan>endan</expan>ts or either and which of them any and what Trust for the releife of her and Children or any and which of them and in what sort and upon what occassion<lb/>
+ or for what Cause did she <add>designe or</add> repose such Trust in the said Def<expan>endan</expan>ts or either and which of them had she at that time any and what apprehensions of Danger from her husband or what did She say<lb/>
+ or declare to the purposes aforesaid or anything and what to that or the like effect.<lb/>
+ 31.) Item Did the Compl<expan>ainan</expan>ts And his Sisters or either and which of them ever go to see or converse or any wayes hold any and what Correspondence with their Mothers Husband Mr Glanville from the<lb/>
+ time he sep<expan>ar</expan>ated from her till her death If Yea! Do you know the same of your own knowledge and how came you to know the same or was it known to them or the Compl<expan>ainan</expan>ts Mother whether the said<lb/>
+ Mr Glanvile was liveing or dead or whither in England or beyond the Seas in that time and when Or did he ever come into the Country where the Compl<expan>ainan</expan>ts Mother dwelled after the time of their sep<expan>er</expan>ac<expan>i</expan>on<lb/>
+ or ever attempt to take or doe any mischeife to her after such sep<expan>er</expan>ac<expan>i</expan>on If yea! how and in what manner was the same attempt made And how do you know the same and are you certaine that that<lb/>
+ was the End of any fact whereof you speake <add>howe you knowe the same</add> Declare the plain Truth.<lb/>
+ 32.) Item Did you Speake all or any and which of the Matters by you deposed to on the Def<expan>endan</expan>ts part of your owne certeyne knowledge or onely by hearsay or beleife were you p<expan>er</expan>sonally pr<expan>e</expan>sent<lb/>
+ at the Transacting the said Matters or not or how elce do you knowe the same Declare.<lb/>
+ 33.) Item do you know of any other matter or thing which as you have been informed or do beleive may make for or conduce to the benefitt or advantage of the said Compl<expan>ainan</expan>t or against<lb/>
+ the Defendant in any matter in this Cause If yea! Sett forth the same with your reasons and Circumstances at large.<lb/>
+ W<expan>illia</expan>m Oldfeild<lb/>
+ <unclear>Pow Thrappot</unclear><lb/>
+ Tho<expan>mas</expan> Walker<lb/>
+ Sam<expan>ua</expan>ll <unclear>pox\</unclear><lb/>
+ Tho<expan>mas </expan>Oldfeild<lb/>
+
+</p></div>
 		</body>
 	</text>
 </TEI>
