@@ -5,21 +5,95 @@
 				<title>Sample Document Title</title>
 			</titleStmt>
 			<publicationStmt>
-				<p></p>
+				<p/>
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
 					otherwise noted.</p>
 			</sourceDesc>
 		</fileDesc>
-		<xenoData>
-			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-			</rdf:RDF></xenoData></teiHeader>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
-				<head>Replace with your title.</head>
-				<p>Replace with your text.</p></div>
+				<head>Depositions on Defendant's part.</head>
+				<p>//img_0425, IMG_0428 IMG_0430//<lb/>
+ </p>
+ <p>
+ (2) </p>
+ <p>
+ <unclear>s Def<expan>endan</expan>t</unclear> </p>
+ <p>
+ Alice Humphry of Tickenham in the County of Somerset Spinster aged twenty years or thereabouts being sworne and examined on the Def<expan>endan</expan>ts part deposeth as followeth.<lb/>
+ 1.) To the first Interr<expan>ogator</expan>y she saith that she knows the Compl<expan>ainan</expan>t &amp; the Def<expan>endan</expan>t Thomas Edwards and hath known them for about four or five years past and alsoe knew Elianor Glanville dec<expan>eas</expan>ed the Compl<expan>ainan</expan>ts mother in her lifetime and <add>for</add> about seaven years before her death which happened about two years since <unclear>xxxxxxxxxxx</unclear><lb/>
+ 25.) To the twenty fifth Interr<expan>ogator</expan>y she saith that before the death of the said Mrs Glanville she this Dep<expan>onen</expan>t was put by the parishoners of Tickenham to live with her as an apprentice and continued soe to live with her till the time of her death which was about seaven years and saith that during the time of this Dep<expan>onen</expan>ts soe living with the <unclear>xxxxxx</unclear><lb/>
+ Mrs Glanville she the said Mrs Glanville did order &amp; direct what was to be done in her Family and was during all that time in the Dep<expan>onen</expan>ts Judgement very sensible of what she did and capable of ordering her servants and was not as every this Dep<expan>onen</expan>t knew of uncapable thereof by reason of any melanc<add>h</add>olly or madness<lb/>
+ </p>
+ <p>
+ Mary Ashfeild spinster first sworne and exa<expan>m</expan>i<expan>n</expan>ed on the Compl<expan>ainan</expan>ts part &amp; againe sworne &amp; exa<expan>m</expan>i<expan>n</expan>ed on the part of the Def<expan>endan</expan>t Deposeth as followeth.<lb/>
+ 29.) To the twenty nineth Interr<expan>ogator</expan>y she saith that the Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick since the death of Mrs Glanville this Dep<expan>onen</expan>ts late mother hath paid a debt which she the said Mrs Glanville owed to a Nurse for Nursing this Dep<expan>onen</expan>ts sister Elianor Glanville which <add>was</add> about fourteen shillings due to <unclear>xxxxx is the xxxxx</unclear><lb/>
+ and hath also paid some finall debt for cheese to Tobias Hort But how much it was cannot set forth And Saith that she this Dep<expan>onen</expan>t Did about the Month of August last was twelve month receive from the said Def<expan>endan</expan>t the sum<expan>m</expan>e of ten pounds as &amp; for a legacy left her by her mothers Will and That <unclear>she sab another xx</unclear><lb/>
+ legatee in the said Will hath alsoe rec<expan>eiv</expan>ed of the said Def<expan>endan</expan>t some money in part of his legacy given him therein but cannot set forth how much.<lb/>
+ 30.) To the thirtieth Interr<expan>ogator</expan>y she saith that after the death of the said Mrs Glanville the said Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick Did give mourning to this Dep<expan>onen</expan>t of the vallue of about Seaven pounds and as this Def<expan>endan</expan>t hath heard he alsoe gave this Dep<expan>onen</expan>ts said sister Elianor Mourning and alsoe give <unclear>give her pepihe</unclear><lb/>
+ mothers Goldwatch &amp; some part of her wearing apparel &amp; all her household stuffe that was in her house at Tickenham &amp; in Bristoll and this Dep<expan>onen</expan>t beleives that there yett remaines some part of her mothers household stuffe which was not delivered to this Dep<expan>onen</expan>t &amp; her sister in the hands of <unclear>Joseph Barnes</unclear><lb/>
+ and Mary his wife and Elizabeth Knight of Tickenham.<lb/>
+ 31.) To the thirty first Interr<expan>ogator</expan>y she saith that the said Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick from Mich<expan>alm</expan>as last was twelve month which was some time after her mothers death hath allowed this Dep<expan>onen</expan>t a yearly sallary for her maintenance after the rate of thirty pounds by the year then <unclear>afterward</unclear> by quarter by<lb/>
+ payment and she this Dep<expan>onen</expan>t hath rec<expan>eiv</expan>ed of him or his order two and twenty pounds and ten shillings for Nine months pay thereof due at Midsomer last and hath heard that the Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick hath allowed her said sister Elianor the same sallary Which allowance was <unclear>xxxxxx</unclear><lb/>
+ <unclear>more than</unclear> ever the said Mrs Glanville in her lifetime allowed or paid for this Dep<expan>onen</expan>t other said Sister and saith that she hath rec<expan>eiv</expan>ed more freindship and favours from the said <add>Def<expan>endan</expan>t</add> S<expan>i</expan>r Henry Goodrick since her said mothers death than ever she rec<expan>eiv</expan>ed from her said mother in many years <unclear>of her lifetime</unclear><lb/>
+ 32.) To the thirty second Interr<expan>ogator</expan>y she saith That at the death of her said mother many of the houses &amp; outhouses in Tickenham and Backwell being her said Mothers estate &amp; the Walls &amp; fences thereto belonging were very much out of repaire some of them being fallen down and others ready to <unclear>fall</unclear><lb/>
+ down And saith that the said Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick since her said mothers death hath repaired severall of the said houses outhouses Walls &amp; fences in order to make them tenantable and hath expended &amp; laid out a considerable sum<expan>m</expan>e of money thereabout but how much <unclear>xxxxxxxxxxxxxx</unclear><lb/>
+ 34.) To the thirty fourth Interr<expan>ogator</expan>y she saith that she was very well acquainted with the manner &amp; caracter of handwriting of the said Elianor Glanville having often seen her write &amp; verily beleives that the two letters now to her this Dep<expan>onen</expan>t produced the one of them dated at <unclear>thely with whose words &amp; signes</unclear><lb/>
+ March <expan>th</expan>e 13 1704 &amp; signed on the other side with these words y<expan>ou</expan>r humble serv<expan>an</expan>t E Glan And the other of them dated at the top with these words &amp; figures Apr: <expan>th</expan>e 14 1705 and ending at the bottom with these words S<expan>i</expan>r y<expan>ou</expan>r humble servant E Glanvile and both directed to <expan>th</expan>e Def<expan>endan</expan>t <unclear>Edwards xxxxxx</unclear><lb/>
+ proper handwriting of this Dep<expan>onen</expan>ts said mother.<lb/>
+ </p>
+ <p>
+ Arthur Hoskins of Clapton in the County of Somerset husbandman aged forty five years or thereabouts being sworne and exa<expan>m</expan>i<expan>n</expan>ed deposeth as followeth.<lb/>
+ 1.) To the first Interr<expan>ogator</expan>y he saith that he knows the Compl<expan>ainan</expan>t &amp; hath known him for about ten years past and alsoe knew Elianor Glanville dec<expan>eic</expan>ed the p<expan>laintif</expan>fs mother in her life time and for about ten years before her death which happened about two years since<lb/>
+ 23.) To the twenty third Interr<expan>ogator</expan>y he saith that in the life time of the said Mrs Glanville &amp; as near as he can remember twas about a year <unclear>and</unclear> halfe before her death she employed &amp; directed this Dep<expan>onen</expan>t as her servant or agent to goe into Wales and buy some cattle for her for which <add>purpose</add> she gave this Dep<expan>onen</expan>t money and directed him to buy<lb/>
+ small Cattle for that they were fittest for her purpose being to be kept in her woods And further saith that he accordingly went into Wales <add>to</add> buy such Cattle but not finding such Cattle there as he was directed to buy he this Dep<expan>onen</expan>t bought the smallest he could but could not get them soe small as the said Mrs Glanville <unclear>desired</unclear><lb/>
+ and saith he brought the Cattle soe by him <unclear>4</unclear> bought to Tickenham &amp; delivered them to <expan>th</expan>e said Mrs Glanville or her servants for which Journey and business the said Mrs Glanville paid &amp; satisfyed this Dep<expan>onen</expan>t to content and Saith he was soe employed by the said Mrs Glanville as he beleives through the recommendation of a neighbour<lb/>
+ of his one Bryant who <unclear>represented</unclear> this Dep<expan>onen</expan>t to the said Mrs Glanville as a fit person for such business being used to it and saith that the direcc<expan>i</expan>ons he rec<expan>iev</expan>ed from the said Mrs Glanville thereabouts were given sensibly in this Dep<expan>onen</expan>ts Judgem<expan>en</expan>t &amp; in manner as other persons used to <unclear>give</unclear>.<lb/>
+ </p>
+ <p>
+ Elizabeth Whitfeild of the parish of Tickenham in the County of Somersett spinster aged six &amp; twenty years or thereabouts being Sworne &amp; exa<expan>m</expan>i<expan>n</expan>ed deposeth as followeth.<lb/>
+ 1.) To the first Interr<expan>ogator</expan>y she saith that she knows the Compl<expan>ainan</expan>t &amp; hath known him for severall years past and hath seen the Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick once but is not acquainted with him but very well knew Elianor Glanville the pl<expan>aintif</expan>fs late mother dec<expan>eas</expan>ed for about fourteen or fifteen years in her life time &amp; that <unclear>xxxx</unclear><lb/>
+ 22.) To the twenty second Interr<expan>ogator</expan>y she saith that in the wime of this Dep<expan>onen</expan>ts knowledge of the said Mrs Glanville as aforesaid she this Dep<expan>onen</expan>t had <add>for</add> about three years of that time reckonings &amp; accounts with her relating to the rent of an estate of hers which this Dep<expan>onen</expan>ts father in law W<expan>illia</expan>m F<unclear>uller xxxxx</unclear> dec<expan>eas</expan>ed<lb/>
+ did rent of the said Mrs Glanville Which acc<expan>oun</expan>ts this Dep<expan>onen</expan>t on behalfe of her said father in law did severall times in that time <unclear>passe</unclear> &amp; settle with <expan>th</expan>e said Mrs Glanville. In passing and settling whereof she this Dep<expan>onen</expan>t did observe and take the said Mrs Glanville to be a woman<lb/>
+ of good sense and understanding and did act sensible as one that understood the business she was about and was not in this Dep<expan>onen</expan>ts Judgem<expan>en</expan>t delirious frenzy or void of understanding but would sometimes be in a passion &amp; very <unclear>Trasty</unclear> as another body may be but it was soon over with her<lb/>
+ and saith that the indented paper or acc<expan>oun</expan>t now by this Dep<expan>onen</expan>t produced signed E Glanvile and purporting to be an <unclear>ag<expan>reemen</expan>t</unclear> between the said William Fuller &amp; the said Mrs Glanville dated Apr<expan>il</expan> 20 1708 is the same accompt Which the said Mrs Glanville gave this Dep<expan>onen</expan>t on her said father in lawe<lb/>
+ account at the last time of this Dep<expan>onen</expan>t soe settling acc<expan>oun</expan>ts with her &amp; very well remembers that the said Mrs Glanville Did indent <expan>th</expan>e said paper or acc<expan>oun</expan>t now produced with another part thereof which she kept herselfe.<lb/>
+ </p>
+ <p>
+ Hester Hort wife of John Hort of Tickenham in the County of Somersett husbandman aged thirty years or thereabouts being sworne &amp; exa<expan>m</expan>i<expan>n</expan>ed deposeth as followeth.<lb/>
+ 1.) To the first Interr<expan>ogator</expan>y she saith she knows the Compl<expan>ainan</expan>t &amp; hath known him from her infancy being borne and bred near one another in the same parish alsoe knew Elianor Glanville the Compl<expan>ainan</expan>ts late mother dec<expan>eas</expan>ed in her life time and for as long time as this Dep<expan>onen</expan>t can remember and that she dyed near about two years since.<lb/>
+ 10.) To the tenth Interr<expan>ogator</expan>y she saith that she was very well acquainted with the said Mrs Glanville for many years in her lifetime &amp; was very often conversant with her and saith that in such her conversac<expan>i</expan>on with the said Mrs Glanville they had some times discourse touching or relating to the pl<expan>aintif</expan>f<lb/>
+ as to his behaviour &amp; way of living and this Dep<expan>onen</expan>t very well remembers that about three years since being in Company with the said Mrs Glanville at Tickenham Court where she then lived and discoursing with her <add>concerning her</add> sone the pl<expan>aintif</expan>f the said Mrs Glanville told this Dep<expan>onen</expan>t that her said son should be noe more the better<lb/>
+ for her estate than this Dep<expan>onen</expan>t should be upon which this Dep<expan>onen</expan>t said to her why Madam you won't disinherite him or to that effect she replyed to this Dep<expan>onen</expan>t that she was sure if he had it he would passe it away or to that effect and saith that the said Mrs Glanville hath often complained to this Dep<expan>onen</expan>t of the<lb/>
+ undutifullnesse of the pl<expan>aintif</expan>f and other her children towards her <add>and</add> of the pl<expan>aintif</expan>f extravagency in keeping bad company and spending of money &amp; seemed to be very much concerned thereat and would often say to this Dep<expan>onen</expan>t that if they would reclaime she would take them into her favour and the Dep<expan>onen</expan>t<lb/>
+ saith that she hath often seen the Compl<expan>ainan</expan>t and his brother and sisters in the company of their said mother and did not observe any undutifullness then towards her but they seemed very quiet &amp; easy with her.<lb/>
+ </p>
+ <p>
+ John Fuller of Tickenham in the County of Somersett yeoman aged three and thirty years or thereabouts being sworne &amp; exa<expan>m</expan>i<expan>n</expan>ed deposeth as followeth.<lb/>
+ 1.) To the first Interr<expan>ogator</expan>y he saith that he knows the Compl<expan>ainan</expan>t and hath known him for severall years past and also knows the Def<expan>endan</expan>t S<expan>i</expan>r Henry Goodrick and hath known him for about a twelve month past and very well knew Elianor Glanville the pl<expan>aintif</expan>fs late mother dec<expan>eas</expan>ed in her life time<lb/>
+ &amp; for about fifteen years before her death which happened about a year and an halfe since.<lb/>
+ 12.) To the twelfth Interr<expan>ogator</expan>y <add>he</add> saith that he hath heard that the pl<expan>aintif</expan>f in his mothers life time did lay some claime to her estate and that he subpenad her in Chancery thereabout But doth not know that the pl<expan>aintif</expan>f did then threaten to take away the tennants corne th<unclear>ereon</unclear> But this<lb/>
+ Dep<expan>onen</expan>t being about seven or eight years since a tennant for part of the said Mrs Glanville's estate at Tickenham and by the high winds some of the trees being blown down some she the said Mrs Glanville did give this Dep<expan>onen</expan>t three or four Elme trees and the Compl<expan>ainan</expan>t understanding<lb/>
+ thereof did forbid this Dep<expan>onen</expan>t to take to the same trees threatening this Dep<expan>onen</expan>t that if he did he should pay for it whereupon this Dep<expan>onen</expan>t did not take to the same till after Mrs Glanville came <add>back</add> from London and when the law suite was over between the pl<expan>aintif</expan>f and his said Mother as<lb/>
+ this Dep<expan>onen</expan>t <unclear>und<expan>e</expan>rstood</unclear>.<lb/>
+ 22.) To the twenty second Interr<expan>ogator</expan>y he saith that for severall years <add>before the death of <expan>th</expan>e s<expan>ai</expan>d Mrs Glanville</add> he this Dep<expan>onen</expan>t did rent some part of her estate at Tickenham Sometimes a small part thereof &amp; other times a greater part thereof &amp; perticularly about two years before her death he rented forty pounds a year of<lb/>
+ her and was in the poss<expan>ess</expan>ion of that part at her death &amp; did sometimes buy hay of her &amp; by meanes thereof he this Dep<expan>onen</expan>t became very well acquainted with her and had severall reckonings and accounts with her touching the rents of the said estate &amp; the <unclear>Hay</unclear> by him soe bought<lb/>
+ &amp; saith that during all the time which this Dep<expan>onen</expan>t <add>soe</add> rented her estate and had such dealings with her she was as this Dep<expan>onen</expan>t observed &amp; always found her a woman of good sense and understanding and was not as ever he observed any ways void of understanding &amp; saith that in all<lb/>
+ the <unclear>convernes</unclear> which this Dep<expan>onen</expan>t had with her in letting her estates &amp; passing her accounts she did act sensible and as one that understood the business she was about &amp; seemed to act very close for her own interest.<lb/>
+ 32.) To the two and thirtieth Interr<expan>ogator</expan>y he saith that the greatest part of the houses &amp; outhouses in Tickenham &amp; at Backwell being the said Mrs Glanvilles estate at the time of her death were very much out of repaire as was also the Walls and fences thereto belonging<lb/>
+ some of them being fallen downe &amp; others ready to fall downe and saith that the dep<expan>onen</expan>t S<expan>i</expan>r Henry Goodrick has since her death repaired severall of the said houses outhouses Walls &amp; fences in order to make them tenantable And doth not know that anything has been<lb/>
+ laid out thereon other than what was necessary but all of them are not yett repaire.<lb/>
+ </p>
+ <p>
+ <unclear>xxx thrupp</unclear><lb/>
+ Tho<expan>mas</expan> <unclear>Waller</unclear><lb/>
+ Tho<expan>mas</expan> Oldfeild<lb/>
+ Sam<expan>uel </expan>Fox<lb/>
+</p></div>
 		</body>
 	</text>
 </TEI>
