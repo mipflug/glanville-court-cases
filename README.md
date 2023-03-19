@@ -14,10 +14,10 @@ Principal Researcher: Michele D. Pflug, PhD Candidate, Department of History, mp
 
 ## Methodology
 ### Transcribing Conventions
-- Transcriptions were made using Notion code blocks. I chose this option because the code blocks were linked to her Notion index of primary sources and her notion biography index. Transcribing in Notion made retrieval easier.
+- Transcriptions were made using Notion code blocks. I chose this option because the code blocks were linked to my Notion index of primary sources and my notion biography index. Transcribing in Notion made retrieval easier.
 - Transciptions followed the semi-diplomatic editorial conventions in Healther Wolfe's [Alphabet Book](https://folgerpedia.folger.edu/mediawiki/media/images_pedia_folgerpedia_mw/7/79/AlphabetBook2020.pdf)
 - exceptions include: "ff" transcribed as "F", "u/v" are modernized, "i/j" are modernized, and unknown letters are transcribed as "x"
-- Notion does not have a superscript function in code blocks, so I enclosed interlinear insertions in <add>example</add>
+- Notion does not have a superscript function in code blocks, so I enclosed interlinear insertions in `<add>example</add>`
 - IMG numbers, folio numbers, recto/verso, and textual notes recorded in //
 
 ### Folder and File Naming Conventions
@@ -50,7 +50,7 @@ The first iteration of encoding captures key textual features recorded in the No
 - `<del>` = deletion
 - `&amp;` = &
 
-The process followed the following steps sequentially:
+The process followed these steps sequentially:
 - add `<lb/>` and `<p>` directly in Notion
 - copy and paste into MS Word. In order to retain formatting features from Notion, hit `CMD + A` to copy rather than clicking the copy button. I chose to use MS Word because it has advanced find & replace options based on formatting. 
 - In MS Word, find and replace `<lb/>` with `<lb/>^p` --the ^p adds an enter after the `<lb/>`
