@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318200458363",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318200458363",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:04:58.363Z",
-	"dcterms:modified": "2023-03-19T01:04:58.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -58,9 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318200458363#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318200458363#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -71,7 +71,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318200458363#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318200458363#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date"
 		}
@@ -121,10 +121,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318200603741",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200603741",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:06:03.741Z",
-	"dcterms:modified": "2023-03-19T01:06:03.741Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -135,9 +134,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318200603741#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200603741#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -148,7 +148,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318200603741#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200603741#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -199,10 +199,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318200725688",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200725688",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:07:25.688Z",
-	"dcterms:modified": "2023-03-19T01:07:25.688Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -213,9 +212,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318200725688#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200725688#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -226,7 +226,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318200725688#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200725688#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[3]"
 		}
@@ -278,9 +278,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318200739217",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200739217",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:07:39.217Z",
+	"dcterms:modified": "2023-03-19T01:07:39.217Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -291,9 +292,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318200739217#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200739217#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -304,7 +306,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318200739217#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318200739217#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[5]"
 		}
@@ -355,9 +357,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318201042922",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201042922",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:10:42.922Z",
+	"dcterms:modified": "2023-03-19T01:10:42.922Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -368,9 +371,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318201042922#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201042922#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -381,7 +385,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318201042922#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201042922#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[8]"
 		}
@@ -433,10 +437,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318201311858",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201311858",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:13:11.858Z",
-	"dcterms:modified": "2023-03-19T01:13:11.858Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -447,9 +450,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318201311858#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201311858#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -460,7 +464,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318201311858#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201311858#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[4]"
 		}
@@ -510,10 +514,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318201358609",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201358609",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:13:58.609Z",
-	"dcterms:modified": "2023-03-19T01:13:58.609Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -524,9 +527,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318201358609#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201358609#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -537,7 +541,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318201358609#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201358609#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[2]"
 		}
@@ -587,9 +591,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318201633371",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201633371",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:16:33.371Z",
+	"dcterms:modified": "2023-03-19T01:16:33.371Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -600,9 +605,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318201633371#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201633371#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -613,7 +619,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318201633371#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318201633371#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[13]"
 		}
@@ -665,10 +671,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318201649625",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201649625",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:16:49.625Z",
-	"dcterms:modified": "2023-03-19T01:16:49.625Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -679,9 +684,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318201649625#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201649625#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -692,7 +698,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318201649625#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318201649625#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[3]"
 		}
@@ -742,10 +748,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318203717871",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203717871",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:37:17.871Z",
-	"dcterms:modified": "2023-03-19T01:37:17.871Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -756,9 +761,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318203717871#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203717871#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -769,7 +775,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318203717871#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203717871#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[4]"
 		}
@@ -821,10 +827,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318203813384",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203813384",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:38:13.384Z",
-	"dcterms:modified": "2023-03-19T01:38:13.384Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -835,9 +840,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318203813384#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203813384#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -848,7 +854,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318203813384#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203813384#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[10]"
 		}
@@ -900,10 +906,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318203958659",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203958659",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:39:58.659Z",
-	"dcterms:modified": "2023-03-19T01:39:58.659Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -914,9 +919,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318203958659#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203958659#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -927,7 +933,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318203958659#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318203958659#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[12]"
 		}
@@ -979,10 +985,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204045148",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204208600",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-03-19T01:40:45.148Z",
-	"dcterms:modified": "2023-03-19T01:42:08.600Z",
+	"dcterms:created": "2023-03-19T01:42:08.600Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -993,9 +998,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204045148#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204208600#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1006,7 +1012,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204045148#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204208600#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[14]"
 		}
@@ -1057,10 +1063,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204103376",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204103376",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:41:03.376Z",
-	"dcterms:modified": "2023-03-19T01:41:03.376Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1071,9 +1076,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204103376#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204103376#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1084,7 +1090,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204103376#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204103376#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[15]"
 		}
@@ -1136,10 +1142,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204136744",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204136744",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:41:36.744Z",
-	"dcterms:modified": "2023-03-19T01:41:36.744Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1150,9 +1155,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204136744#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204136744#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1163,7 +1169,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204136744#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204136744#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[16]"
 		}
@@ -1215,10 +1221,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204231577",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204231577",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:42:31.577Z",
-	"dcterms:modified": "2023-03-19T01:42:31.577Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1229,9 +1234,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204231577#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204231577#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1242,7 +1248,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204231577#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204231577#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[17]"
 		}
@@ -1294,10 +1300,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204244064",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204244064",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:42:44.064Z",
-	"dcterms:modified": "2023-03-19T01:42:44.064Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1308,9 +1313,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204244064#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204244064#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1321,7 +1327,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204244064#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204244064#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[18]"
 		}
@@ -1372,10 +1378,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204302339",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204302339",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:43:02.339Z",
-	"dcterms:modified": "2023-03-19T01:43:02.339Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1386,9 +1391,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204302339#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204302339#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1399,7 +1405,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204302339#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204302339#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[19]"
 		}
@@ -1450,10 +1456,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204325758",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204325758",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:43:25.758Z",
-	"dcterms:modified": "2023-03-19T01:43:25.758Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1464,9 +1469,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204325758#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204325758#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1477,7 +1483,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204325758#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204325758#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[20]"
 		}
@@ -1528,10 +1534,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204345106",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204345106",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:43:45.106Z",
-	"dcterms:modified": "2023-03-19T01:43:45.106Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1542,9 +1547,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204345106#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204345106#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1555,7 +1561,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204345106#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204345106#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[21]"
 		}
@@ -1607,10 +1613,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204406513",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204406513",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:44:06.513Z",
-	"dcterms:modified": "2023-03-19T01:44:06.513Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1621,9 +1626,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204406513#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204406513#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1634,7 +1640,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204406513#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204406513#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[22]"
 		}
@@ -1685,10 +1691,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204527091",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204527091",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:45:27.091Z",
-	"dcterms:modified": "2023-03-19T01:45:27.091Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1699,9 +1704,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204527091#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204527091#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1712,7 +1718,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204527091#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204527091#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[24]"
 		}
@@ -1763,10 +1769,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318204617207",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204617207",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:46:17.207Z",
-	"dcterms:modified": "2023-03-19T01:46:17.207Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1777,9 +1782,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318204617207#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204617207#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1790,7 +1796,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318204617207#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204617207#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[5]"
 		}
@@ -1840,10 +1846,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318204653695",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204653695",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:46:53.695Z",
-	"dcterms:modified": "2023-03-19T01:46:53.695Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1854,9 +1859,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318204653695#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204653695#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1867,7 +1873,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318204653695#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204653695#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[6]"
 		}
@@ -1917,10 +1923,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318204713438",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204713438",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:47:13.438Z",
-	"dcterms:modified": "2023-03-19T01:47:13.438Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -1931,9 +1936,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318204713438#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204713438#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1944,7 +1950,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318204713438#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318204713438#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[25]"
 		}
@@ -1995,10 +2001,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318204829603",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204829603",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:48:29.603Z",
-	"dcterms:modified": "2023-03-19T01:48:29.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2009,9 +2014,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318204829603#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204829603#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2022,7 +2028,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318204829603#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318204829603#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[7]"
 		}
@@ -2072,10 +2078,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205223134",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205223134",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:52:23.134Z",
-	"dcterms:modified": "2023-03-19T01:52:23.134Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2086,9 +2091,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205223134#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205223134#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2099,7 +2105,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205223134#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205223134#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[29]"
 		}
@@ -2151,10 +2157,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318205342363",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205342363",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:53:42.363Z",
-	"dcterms:modified": "2023-03-19T01:53:42.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2165,9 +2170,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318205342363#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205342363#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2178,7 +2184,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318205342363#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205342363#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[8]"
 		}
@@ -2228,10 +2234,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205403668",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205403668",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:54:03.668Z",
-	"dcterms:modified": "2023-03-19T01:54:03.668Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2242,9 +2247,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205403668#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205403668#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2255,7 +2261,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205403668#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205403668#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[31]"
 		}
@@ -2307,10 +2313,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205432263",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205432263",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:54:32.263Z",
-	"dcterms:modified": "2023-03-19T01:54:32.263Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2321,9 +2326,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205432263#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205432263#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2334,7 +2340,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205432263#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205432263#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[32]"
 		}
@@ -2386,10 +2392,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205458830",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205458830",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:54:58.830Z",
-	"dcterms:modified": "2023-03-19T01:54:58.830Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2400,9 +2405,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205458830#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205458830#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2413,7 +2419,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205458830#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205458830#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[33]"
 		}
@@ -2465,10 +2471,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205518750",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205518750",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:55:18.750Z",
-	"dcterms:modified": "2023-03-19T01:55:18.750Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2479,9 +2484,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205518750#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205518750#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2492,7 +2498,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205518750#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205518750#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[34]"
 		}
@@ -2543,10 +2549,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205537591",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205537591",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:55:37.591Z",
-	"dcterms:modified": "2023-03-19T01:55:37.591Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2557,9 +2562,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205537591#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205537591#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2570,7 +2576,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205537591#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205537591#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[35]"
 		}
@@ -2622,10 +2628,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205612389",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205612389",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:56:12.389Z",
-	"dcterms:modified": "2023-03-19T01:56:12.389Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2636,9 +2641,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205612389#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205612389#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2649,7 +2655,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205612389#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205612389#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[36]"
 		}
@@ -2700,10 +2706,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205640279",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205640279",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:56:40.279Z",
-	"dcterms:modified": "2023-03-19T01:56:40.279Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2714,9 +2719,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205640279#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205640279#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2727,7 +2733,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205640279#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205640279#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[37]"
 		}
@@ -2778,10 +2784,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205712880",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205712880",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:57:12.880Z",
-	"dcterms:modified": "2023-03-19T01:57:12.880Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2792,9 +2797,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205712880#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205712880#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2805,7 +2811,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205712880#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205712880#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[38]"
 		}
@@ -2857,10 +2863,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205849811",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205849811",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:58:49.811Z",
-	"dcterms:modified": "2023-03-19T01:58:49.811Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2871,9 +2876,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205849811#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205849811#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2884,7 +2890,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205849811#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205849811#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[39]"
 		}
@@ -2935,10 +2941,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318205928694",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205928694",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:59:28.694Z",
-	"dcterms:modified": "2023-03-19T01:59:28.694Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -2949,9 +2954,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318205928694#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205928694#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2962,7 +2968,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318205928694#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318205928694#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[40]"
 		}
@@ -3013,10 +3019,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20230318205951278",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205951278",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T01:59:51.278Z",
-	"dcterms:modified": "2023-03-19T01:59:51.278Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -3027,9 +3032,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20230318205951278#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205951278#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3040,7 +3046,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20230318205951278#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?date_annotation_20230318205951278#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/date[9]"
 		}
@@ -3090,10 +3096,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318210257220",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210257220",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T02:02:57.220Z",
-	"dcterms:modified": "2023-03-19T02:02:57.220Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -3104,9 +3109,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318210257220#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210257220#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3117,7 +3123,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318210257220#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210257220#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[46]"
 		}
@@ -3168,10 +3174,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20230318210322465",
+	"id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210322465",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-03-19T02:03:22.465Z",
-	"dcterms:modified": "2023-03-19T02:03:22.465Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mipflug",
 		"@type": [
@@ -3182,9 +3187,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20230318210322465#Target",
+		"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210322465#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -3195,7 +3201,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20230318210322465#Selector",
+			"@id": "https://raw.githubusercontent.com/mipflug/Glanville-Court-Cases/main/C5-222-25/C5-222-25-b-2-f-4-Ashfield-Complaint.xml?person_annotation_20230318210322465#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[47]"
 		}
@@ -3272,7 +3278,7 @@ wife and the Issue of their twoe bodyes or to some such like or other use or use
  power of some other person or persons in trust for them or some of them all or most of them the Deeds settlements assureances and writeings aforesaid and of other the Deeds Evidences and writeings relateing to the title of the said premisses The greatest parte of which settlements<lb/>
  assurances Deeds and writeings your Orator expressly charges to have been gotten into the Custody of the said <persName>Mr. Edwards</persName> from the said <persName key="Edward Gorges" ref="http://www.wikidata.org/entity/Q52443675">Mr. Gorges</persName> in the life time of your Orators said Mother at or about the time of the said suites and controversies betweene your<lb/>
  Orators said Mother and her said husband <persName key="Richard Glanville" ref="http://www.wikidata.org/entity/Q75575862">Mr Glanvile</persName> upon pretence that the same were necessary to be produced in the said suites and Controversies on behalf of your Orator and his said mother to shewe that the said premisses were soe settled on your Orator as<lb/>
- aforesaid or otherwise and upon his the said Mr. Edwards's promise to returne the same againe as soon as those suites and Controversies were over whereupon a Box and large parcell of writeing and (amongst others) the severall Deeds Settlements assureances and writeings<lb/>
+ aforesaid or otherwise and upon his the said <persName>Mr. Edwards's</persName> promise to returne the same againe as soon as those suites and Controversies were over whereupon a Box and large parcell of writeing and (amongst others) the severall Deeds Settlements assureances and writeings<lb/>
  aforesaid and other Deeds and Settlements whereby the said premisses were settled or appointed to or to the use of or in trust for [use?] your Orator [wers] by the said Mr Gorges delivered to the said Mr Edwards for the purpose aforesaid But he never returned the same to the said<lb/>
  Mr Gorges although the said Mr Gorges often demanded the same for which dealing of his the said Mr Edwards's he the said Mr Gorges often to his death complayned of and much blaymed him and other Deeds Evidences and writeings and amongst them some other<lb/>
  Settlements Deeds of appointments or other assureances of the said premisses or the greatest parte thereof made on or in favour of your orator were by the said Confederates upon the death of your Orators said Mother found in her Custody and taken into theirs and thereupon<lb/>
