@@ -5,21 +5,59 @@
 				<title>Sample Document Title</title>
 			</titleStmt>
 			<publicationStmt>
-				<p></p>
+				<p/>
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
 					otherwise noted.</p>
 			</sourceDesc>
 		</fileDesc>
-		<xenoData>
-			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-			</rdf:RDF></xenoData></teiHeader>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
-				<head>Replace with your title.</head>
-				<p>Replace with your text.</p></div>
+				<head>Schedule of Defendant.</head>
+				<p>//IMG_0315 and IMG_0316//
+</p>
+<p>
+ The Schedule whereto the Def<expan>endan</expan>ts Answer referrs<lb/>
+ </p>
+<p>
+ 25 Novembris<lb/>
+ <unclear>x Jambe 2d</unclear>:}<lb/>
+ Imprimis One Indenture Tripartite of that date made Between Elianor Ashfeild of the first part Richard<lb/>
+ Glanville of the second part and Edward Gorges and W<expan>illia</expan>m Rogers of the third part (reciting two Indentures<lb/>
+ of Lease and release bearing date the twenty third and twenty fourth of that instant November made by<lb/>
+ the said Elianor Ashfeild to the said Edward Gorges and William Rogers of all her Mannors Lands<lb/>
+ and hereditaments in the County of Somersett And reciting a marriage intended to be had Between<lb/>
+ the said Rich<expan>ar</expan>d Glanville and Elianor Ashfeild being a Deed declaring the Trusts on which the<lb/>
+ <unclear>they recited</unclear> Indentures were made<lb/>
+<unclear>February</unclear> 1686}<lb/>
+ Item One Indenture of that date made Between the said Richard Glanville and Elianor his wife<lb/>
+ Edward Gorges and William Rogers of the one part and S<expan>i</expan>r Dudley North K<expan>nigh</expan>t of the other parte purporting<lb/>
+ the Counterpart of an Addic<expan>i</expan>onall Security to S<expan>i</expan>r Dudley North and Lady Anne his wife for three hundred<lb/>
+ pounds and Interest.<lb/>
+9 December 1693}<lb/>
+ Item One Indenture of that date made Between Elianor Glanville then wife of the said Richard<lb/>
+ Glanville and the said Edward Gorges and William Rogers of the one part and S<expan>i</expan>r William Merrick K<expan>nigh</expan>t<lb/>
+ of the other part purporting the Counterpart of an Addic<expan>i</expan>onall Security to S<expan>i</expan>r William Merrick for Twelve<lb/>
+ hundred and Fifty pounds and Interest.<lb/>
+3 September 1694}<lb/>
+ Item One Ind<expan>entu</expan>re Tripartite of that date made between the same Partys purporting to the Counterpart of<lb/>
+ a Security to S<expan>i</expan>r William Merrick for one thousand Four hundred <add>and fifty</add> pounds and Interest.<lb/>
+12 January 1696}<lb/>
+ One Ind<expan>entu</expan>re Tripartite of that date made Between the same partys purporting the Counterp<expan>ar</expan>ts<lb/>
+ of Security to S<expan>i</expan>r William Merrick for one then said Seaven hundred pounds and Interest<lb/>
+25 January 1698}<lb/>
+ Item one other Ind<expan>entu</expan>re of that date purporting <expan>th</expan>e Counterpart of a mortgage of Backwell Parke<lb/>
+ for securing Eight hundred pounds and Interest<lb/>
+19 September 1704<lb/>
+ Item one Ind<expan>entu</expan>re Tripartite of that date made Between the said Elianor Glanville of the first part<lb/>
+ Edward Gorges and William Rogers of the second part and John Shipton of the third part purporting<lb/>
+ the Counterpart of a Lease to John Shipton of certain Lands at Tickenham To hold for three years<lb/>
+ and afterwards for four years if he and the said Elianor did agree at and under the yearly rend of<lb/>
+ forty six pounds.<lb/>
+</p></div>
 		</body>
 	</text>
 </TEI>
