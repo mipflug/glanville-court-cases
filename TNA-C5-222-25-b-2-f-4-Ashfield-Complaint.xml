@@ -403,6 +403,162 @@
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?person_annotation_20230318201245624",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-03-19T01:12:45.624Z",
+	"dcterms:modified": "2023-03-19T01:12:45.624Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/mipflug",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Michele Pflug"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?person_annotation_20230318201245624#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?person_annotation_20230318201245624#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/persName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q75620513",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	},
+	"cwrc:hasCertainty": "cwrc:medium"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?date_annotation_20230318201311858",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-03-19T01:13:11.858Z",
+	"dcterms:modified": "2023-03-19T01:13:11.858Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/mipflug",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Michele Pflug"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?date_annotation_20230318201311858#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?date_annotation_20230318201311858#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/date[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1650"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -418,12 +574,12 @@
 Backwell called Backwell parks with their appurten<expan>a</expan>nces all in the said County of Somersett and of and in diverse other Lands Tenements rents and hereditaments there and else where in the same County of the yearely vallue of five hundred pounds and upwards did on or about the<lb/>
 Sixteenth day of December which was in the yeare of our Lord one Thousand Six hundred and twenty Four by Deed of that date for good and vallueable considerac<expan>i</expan>ons well and sufficiently settle and assure the same premisses or the greatest parte thereof on him and the said Mary his<lb/>
 wife and the Issue of their twoe bodyes or to some such like or other use or uses as by the same Deed had your orator the same to produce would appeare and that they had Issue only one daughter the said Eleanor your Orators Grandmother And that your orators said Great Grandmother<lb/>
- died And that your orators said Great GrandFather survived her and that afterwards in or aboute August in the Yeare one thousand Six hundred and thirty Eight upon a treaty of marriage between one Nicholas Poyntz Esq<expan>ui</expan>re and your orators said Grandmother your orators said<lb/>
+ died And that your orators said Great GrandFather survived her and that afterwards in or aboute August in the Yeare one thousand Six hundred and thirty Eight upon a treaty of marriage between one <persName>Nicholas Poyntz</persName> Esq<expan>ui</expan>re and your orators said Grandmother your orators said<lb/>
  Greate GrandFather did contract and article to settle the said premisses or the greatest parte thereof after his owne death on the said Nicholas and Eleanor your orators Grandmother and the Issue of their twoe Bodyes with remainder to the Issue of her body or to some such like or other use or<lb/>
  uses as by the said Articles or Contract had your Orator the same to produce might appeare and that the same were or ought to have been pursueant thereto so settled and that the said marriage was had between the said Nicholas Poyntz and your orators said Grandmother and that<lb/>
- the said Rice Davis soone afterwards died After whose death the said Nicholas Poyntz and Eleanor his wife your orators said Grandmother did levy a fine and suffer a com<expan>m</expan>on recovery of the said premisses or the greatest parte thereof the uses whereof were declared to them the said Nicholas<lb/>
+ the said <persName key="Rice Davis" ref="http://www.wikidata.org/entity/Q75620513" cert="medium">Rice Davis</persName> soone afterwards died After whose death the said Nicholas Poyntz and Eleanor his wife your orators said Grandmother did levy a fine and suffer a com<expan>m</expan>on recovery of the said premisses or the greatest parte thereof the uses whereof were declared to them the said Nicholas<lb/>
  and Eleanor and the Issue of their twoe Bodyes With remainder to the Issue of the Body of the said Eleanor or to some such like or other use or uses as by the Chirographs of the said Fine and Exemplificac<expan>i</expan>on of the said recovery and the Deeds declareing the Uses thereof had your orator the same to<lb/>
- produce would more at large appeare And your Orator further sheweth that the said Nicholas Poyntz afterwards in or about the yeare one Thousand Six hundred and Fifty died without Issue And that soone afterwards to witt in or about the yeare one thousand Six hundred and Fifty one your<lb/>
+ produce would more at large appeare And your Orator further sheweth that the said Nicholas Poyntz afterwards in or about the yeare <date when="1650">one Thousand Six hundred and Fifty</date> died without Issue And that soone afterwards to witt in or about the yeare one thousand Six hundred and Fifty one your<lb/>
  orators said Grandmother intermarried with the said William Goodrick your orators GrandFather And that thereupon the said premisses or the greatest parte thereof were either by your orators said Grandmother before the said marriage or by your orators said GrandFather and Grandmother<lb/>
  after the said marriage by certeyne assureances in the Lawe settled and assured to the use of your orators said GrandFather and Grandmother and the Issue of their twoe Bodyes with other remainders over or to some such like or other use or uses as by the Deeds thereof had your Orator the same to<lb/>
  produce would more at large appeare and your orator futher sheweth that your orators said GrandFather and Grandmother had Issue only the said Eleanor your orators said mother And that in or about the yeare one thousand Six hundred and Fifty Eight your orators said Grandmother<lb/>
