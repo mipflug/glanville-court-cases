@@ -1,4 +1,4 @@
-# Glanville-Court-Cases
+# glanville-court-cases
 ## Introduction
 This repository contains in-progress XML files of transcribed court documents pertaining to the entomologist Eleanor Glanville (1655-1709).
 Approximately 35 court cases were photographed by Michele D. Pflug at the UK National Archives in summer 2022. I began transcribing the largest case, Ashfield v. Goodricke (C5/222/25) in fall 2022 in Eugene, Oregon. Encoding began in Spring 2023 using Leaf-Writer.
